@@ -25,7 +25,7 @@
   <a href="https://www.linkedin.com/in/aldwinliobing" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="https://app.gitbook.com/invite/C4jeA4kGkI9I61n0AjjC/jmmY2Mv6rNYvox8U45KD" target="_blank">
+  <a href="https://aldwin.gitbook.io/untitled/" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
