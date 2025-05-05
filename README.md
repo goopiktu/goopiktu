@@ -1,12 +1,10 @@
 ### Hi there 👋
 
-<h1>Hi, I'm Aldwin! <br/><a href="https://github.com/goopiktu">Programmer</a>, <a href="https://www.linkedin.com/in/aldwinliobing/">3rd Year Uni Student</a>
+<h1>Hi, I'm Aldwin! <br/><a href="https://github.com/goopiktu">Programmer</a>, <a href="https://www.linkedin.com/in/aldwinliobing/">4th Year Uni Student</a>
 
 <div align="center">
  
- 🔭 I’m currently working on **a e-commerce for a family business**
- 
- 🌱 I’m currently learning **AWS, Docker**
+
 
  </div>
 
