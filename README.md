@@ -3,7 +3,8 @@
 <h1>Hi, I'm Aldwin! <br/><a href="https://github.com/goopiktu">Programmer</a>, <a href="https://www.linkedin.com/in/aldwinliobing/">4th Year Uni Student</a>
 
 <div align="center">
- 
+
+I’m currently working on a mozilla desktop web extension that blurs out comments and posts on click 
 
 
  </div>
@@ -35,7 +36,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
