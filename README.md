@@ -1,17 +1,17 @@
-### Hi there 👋
+### 👋 Hi there
 
-<h2>Hi, I'm Aldwin! <br/><a href="https://github.com/goopiktu">Programmer</a>, <a href="https://www.linkedin.com/in/aldwinliobing/">4th Year Uni Student</a>
+## Hi, I'm Aldwin!  
+[Programmer](https://github.com/goopiktu) • [4th Year Uni Student](https://www.linkedin.com/in/aldwinliobing/)
 
-<div align="left">
+---
 
+### 🔧 I’m currently working on a Mozilla Firefox extension  
+It blurs out comments and posts on click — great for cleaning up your feed!
 
-<h1>I’m currently working on a mozilla desktop web extension that blurs out comments and posts on click</h1>
-<h1>Tyr it out yourself!</h1>
-<a href="https://addons.mozilla.org/en-US/firefox/addon/troll-patrol/">Will bring you to firefox store!</a>
+### 🧪 Try it out yourself!  
+[🦊 Troll Patrol – Firefox Add-on](https://addons.mozilla.org/en-US/firefox/addon/troll-patrol/)  
+Clicking the link will take you directly to the Firefox Add-ons store!
 
-
-
-</div>
 
   
 <h2>👨‍💻 Software Development Projects:</h2>
