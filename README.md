@@ -1,5 +1,3 @@
-### 👋 Hi there
-
 ## Hi, I'm Aldwin!  
 [Programmer](https://github.com/goopiktu) • [4th Year Uni Student](https://www.linkedin.com/in/aldwinliobing/)
 
