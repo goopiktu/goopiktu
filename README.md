@@ -2,12 +2,13 @@
 
 <h1>Hi, I'm Aldwin! <br/><a href="https://github.com/goopiktu">Programmer</a>, <a href="https://www.linkedin.com/in/aldwinliobing/">4th Year Uni Student</a>
 
-<div align="center">
+<div align="left">
 
-I’m currently working on a mozilla desktop web extension that blurs out comments and posts on click 
+<a href="https://addons.mozilla.org/en-US/firefox/addon/troll-patrol/">I’m currently working on a mozilla desktop web extension that blurs out comments and posts on click </a>
 
 
- </div>
+
+</div>
 
   
 <h2>👨‍💻 Software Development Projects:</h2>
