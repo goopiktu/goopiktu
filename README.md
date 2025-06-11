@@ -4,7 +4,10 @@
 
 <div align="left">
 
-<a href="https://addons.mozilla.org/en-US/firefox/addon/troll-patrol/">I’m currently working on a mozilla desktop web extension that blurs out comments and posts on click </a>
+
+<h2>I’m currently working on a mozilla desktop web extension that blurs out comments and posts on click</h2>
+<h2>Tyr it out yourself!</h2>
+<a href="https://addons.mozilla.org/en-US/firefox/addon/troll-patrol/">Will bring you to firefox store!</a>
 
 
 
